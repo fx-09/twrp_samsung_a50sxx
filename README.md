@@ -12,9 +12,12 @@ mkdir -p ~/twrp && cd ~/twrp
 ```
 ```
 repo init --depth=1 -u git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git -b twrp-10.0```
-```repo sync
 ```
-```git clone https://github.com/halcyon441-png/android-10device/samsung/a50sxx/     device/samsung/a50sxx
+repo 
+```
+
+
+git clone https://github.com/halcyon441-png/android-10device/samsung/a50sxx/     device/samsung/a50sxx
 ```
 ## How-to build:
 
