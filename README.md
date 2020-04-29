@@ -17,7 +17,7 @@ repo init --depth=1 -u git://github.com/minimal-manifest-twrp/platform_manifest_
 repo sync
 ```
 ```
-git clone https://github.com/halcyon441-png/android-10device/samsung/a50sxx/     device/samsung/a50sxx
+git clone https://github.com/halcyon441-png/android-10.git    device/samsung/a50sxx
 ```
 ## How-to build:
 
