@@ -11,7 +11,7 @@ sudo apt install -y bison build-essential g++-multilib git make python zip openj
 mkdir -p ~/twrp && cd ~/twrp
 ```
 ```
-repo init --depth=1 -u git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git -b twrp-10.0```
+repo init --depth=1 -u git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git -b twrp-10.0
 ```
 ```
 repo sync
