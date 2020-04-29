@@ -1,5 +1,5 @@
 # Release name
-PRODUCT_RELEASE_NAME := a507fn
+PRODUCT_RELEASE_NAME := a50sxx
 
 
 $(call inherit-product, build/target/product/embedded.mk)
@@ -8,8 +8,8 @@ $(call inherit-product, build/target/product/embedded.mk)
 $(call inherit-product, vendor/omni/config/common.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := a507fn
-PRODUCT_NAME := omni_a507fn
+PRODUCT_DEVICE := a50sxx
+PRODUCT_NAME := omni_a50sxx
 PRODUCT_BRAND := Samsung
 PRODUCT_MODEL := Galaxy A50s
 PRODUCT_MANUFACTURER := Samsung
