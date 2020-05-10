@@ -2,7 +2,7 @@
 
 ## How-to install dependencies
 ```
-sudo apt install -y bison build-essential g++-multilib git make python zip openjdk-8-jdk repo screen libtinfo5 libncurses5
+sudo apt install -y bison build-essential g++-multilib git make python zip openjdk-8-jdk screen libtinfo5 libncurses5
 ```
 
 ## How-to clone source and device tree:
