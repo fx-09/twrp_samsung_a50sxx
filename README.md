@@ -25,6 +25,6 @@ git clone https://github.com/halcyon441-png/android-10.git    device/samsung/a50
 export ALLOW_MISSING_DEPENDENCIES=true; . build/envsetup.sh; lunch omni_a50sxx-eng; mka recoveryimage
 ```
 Сompilation result is in ```twrp/out/target/product/a50sxx```
-
+# ADD BUSYBOX IN /.../twrp/external/ FOLDER. USE 0sm0sis's WOULD HELP.
 
 
